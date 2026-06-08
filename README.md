@@ -2,7 +2,7 @@
 
 This is the code for our project where we adapted [InteractVLM](https://interactvlm.is.tue.mpg.de/) so that it predicts hand-object contact on the MANO hand mesh instead of full-body contact on SMPL. We fine-tuned it on the [ARCTIC](https://arctic.is.tue.mpg.de/) dataset.
 
-![Demo](assets/demo.gif)
+![Demo](assets/ketchup_use_01.gif)
 
 ## Requirements
 
